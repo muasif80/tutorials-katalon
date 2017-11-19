@@ -4,5 +4,5 @@
    <name>tutorials-katalon</name>
    <tag></tag>
    <UUID>474ce57d-213e-4598-b43f-4db1723c2afd</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
